@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "silammmmm $1!"
+echo "silammmmmlarr $1!"
 echo "cemi $# arqument"
 
 git status
